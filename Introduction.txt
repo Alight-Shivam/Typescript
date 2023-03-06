@@ -1,0 +1,14 @@
+TS is an enhanced version of javascript.
+We could say it a superset of javascript.
+You can understand like C++ is an enhanced version of C language.
+Typescript is build on avascript.
+TS is not a new language.This is just adding some new features in js.
+But TS cannot run on the browser directly as TS compiler convert the code from Typescript to javascript
+Check Error on Compile Time
+Add type like strings, number, bool etc.
+Code is well managed
+
+Developed by Microsoft
+Current Version : 4.2.2
+First Released: 1/Oct?2012
+Influenced By javascript
