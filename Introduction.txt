@@ -12,3 +12,7 @@ Developed by Microsoft
 Current Version : 4.2.2
 First Released: 1/Oct?2012
 Influenced By javascript
+
+Core Data Types-
+
+Number(integer and float), String and Boolean
